@@ -1,12 +1,10 @@
+import { GlobalStyles } from "./styles/global";
+
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-          Learn React
-      </header>
+      <h1>Hello World</h1>
+      <GlobalStyles />
     </div>
   );
 }
