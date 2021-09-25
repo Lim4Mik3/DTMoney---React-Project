@@ -13,6 +13,6 @@ Tópicos e fundamentos abordados durante a construção do sistema:
 
 ### Screenshot da aplicação em funcionamento
 
-![dtmoney](/printscreen.png?raw=true "DT Money application")
+![](/printscreen.PNG)
 
 
